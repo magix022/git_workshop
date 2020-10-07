@@ -1,1 +1,2 @@
-#workshop on Git presented by McHack
+# workshop on Git presented by McHack
+October 7th 2020
